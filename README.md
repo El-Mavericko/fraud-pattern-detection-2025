@@ -64,5 +64,5 @@ Detection rate, anomaly speed, overlap with known fraudsters, false positives
 
 This repo is part of a broader mission to modernize and enhance fraud prevention in high-volume, high-risk customer onboarding environments — by leveraging frontline intelligence and strategic technologies.
 
-*Created by: Michael Kolawole*  
-*Fraud Operations Analyst | Aspiring Cybersecurity Strategist*
+*Created by: Michael K*  
+*Fraud Operations Analyst | Aspiring Hybrid Cryptosecurity Specialist*
