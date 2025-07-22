@@ -32,9 +32,9 @@ The purpose of this documentation is to:
 
 ---
 
-## 3. Proposed Solution – IPQS Alignment
+## 3. Proposed Solution 
 
-**Vendor:** IPQS (Fraud and cyber threat intelligence platform)
+**Vendor:** (Fraud and cyber threat intelligence platform)
 
 **Relevant Capabilities:**
 - **Email string risk scoring:** Detects fake, newly created, or bot-generated emails  
@@ -44,10 +44,10 @@ The purpose of this documentation is to:
 
 ---
 
-## 4. Pilot Concept – VMO2 Simulation
+## 4. Pilot Concept – UK Telco Simulation
 
 **Objective:**  
-Run IPQS scoring in parallel with VMO2’s current sign-up process for 30 days  
+Runfraud detection tool scoring in parallel with VMO2’s current sign-up process for 30 days  
 
 **Inputs:**  
 Anonymized customer sign-up metadata  
