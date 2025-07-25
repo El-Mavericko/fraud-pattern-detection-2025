@@ -47,13 +47,13 @@ The purpose of this documentation is to:
 ## 4. Pilot Concept – UK Telco Simulation
 
 **Objective:**  
-Runfraud detection tool scoring in parallel with VMO2’s current sign-up process for 30 days  
+Runfraud detection tool scoring in parallel any UK telco current sign-up process for 30 days  
 
 **Inputs:**  
 Anonymized customer sign-up metadata  
 
 **Outputs:**  
-Comparison between IPQS detections and internal fraud flags  
+Comparison between fraud tool detections and internal fraud flags  
 
 **Evaluation Metrics:**  
 Detection rate, anomaly speed, overlap with known fraudsters, false positives  
