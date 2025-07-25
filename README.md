@@ -9,7 +9,7 @@ This repo documents an observed fraud pattern at the point of customer sign-up w
 The purpose of this documentation is to:
 - Break down the fraud behaviour observed  
 - Highlight limitations in current detection systems  
-- Explore the alignment with IPQS technology  
+- Explore the alignment with current cyber security technology  
 - Propose a lightweight pilot framework to test effectiveness  
 
 ---
